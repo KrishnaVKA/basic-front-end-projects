@@ -1,0 +1,31 @@
+# Basic Front-End Projects
+
+This repository contains small front-end projects I built while learning HTML, CSS, and JavaScript.  
+Each project helped me practice different skills like DOM manipulation, styling, and user interaction.
+
+## Projects
+
+1. **ToDo List App**  
+   - Add and delete tasks  
+   - Clean layout with styled containers  
+
+2. **Guess The Number Game**  
+   - User enters a number guess  
+   - Shows feedback (Right/Wrong)  
+   - Tracks score  
+
+3. **Booksy (Book Management App)**  
+   - Add book details (title, author, description)  
+   - Delete books from the list  
+   - Simple and clean UI  
+
+## Tech Used
+- HTML  
+- CSS  
+- JavaScript  
+
+## How to Run
+1. Clone the repo:
+   git clone https://github.com//basic-front-end-projects
+2. Open any project folder (e.g., todo-list).
+3. Run index.html in your browser.
