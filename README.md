@@ -31,7 +31,7 @@ Each project helped me practice different skills like DOM manipulation, styling,
 ## Screenshots
 
 ### ToDo List
-![ToDo List Screenshot](Screenshots/ToDo List(1).png)
+![ToDo List Screenshot](Screenshots/Booksy(1).png)
 ![ToDo List Screenshot](Screenshots/ToDo List(1).png)
 ![ToDo List Screenshot](Screenshots/ToDo List(1).png)
 
@@ -40,6 +40,6 @@ Each project helped me practice different skills like DOM manipulation, styling,
 ![Guess The Number Screenshot](Screenshots/guess-number.png)
 
 ### Booksy
-![Booksy Screenshot](Screenshots/booksy.png)
-![Booksy Screenshot](Screenshots/booksy.png)
+![ToDo List Screenshot](Screenshots/Booksy(1).png)
+![ToDo List Screenshot](Screenshots/Booksy(2).png)
    
