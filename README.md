@@ -27,3 +27,19 @@ Each project helped me practice different skills like DOM manipulation, styling,
 ## How to Run
 1. Open any project folder (e.g., todo-list).
 2. Run .html in your browser.
+
+## Screenshots
+
+### ToDo List
+![ToDo List Screenshot](Screenshots/ToDo List(1).png)
+![ToDo List Screenshot](Screenshots/ToDo List(1).png)
+![ToDo List Screenshot](Screenshots/ToDo List(1).png)
+
+### Guess The Number
+![Guess The Number Screenshot](Screenshots/guess-number.png)
+![Guess The Number Screenshot](Screenshots/guess-number.png)
+
+### Booksy
+![Booksy Screenshot](Screenshots/booksy.png)
+![Booksy Screenshot](Screenshots/booksy.png)
+   
