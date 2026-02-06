@@ -25,7 +25,5 @@ Each project helped me practice different skills like DOM manipulation, styling,
 - JavaScript  
 
 ## How to Run
-1. Clone the repo:
-   git clone https://github.com//basic-front-end-projects
-2. Open any project folder (e.g., todo-list).
-3. Run index.html in your browser.
+1. Open any project folder (e.g., todo-list).
+2. Run .html in your browser.
