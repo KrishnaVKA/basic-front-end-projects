@@ -31,13 +31,13 @@ Each project helped me practice different skills like DOM manipulation, styling,
 ## Screenshots
 
 ### ToDo List
-![ToDo List Screenshot](Screenshots/Booksy(1).png)
-![ToDo List Screenshot](Screenshots/ToDo List(1).png)
-![ToDo List Screenshot](Screenshots/ToDo List(1).png)
+![ToDo List Screenshot](Screenshots/ToDoList(1).png)
+![ToDo List Screenshot](Screenshots/ToDoList(2).png)
+![ToDo List Screenshot](Screenshots/ToDoList(3).png)
 
 ### Guess The Number
-![Guess The Number Screenshot](Screenshots/GusstheNumbergame(1).png)
-![Guess The Number Screenshot](Screenshots/Guss the Number game(2).png)
+![Guess The Number Screenshot](Screenshots/GussTheNumberGame(1).png)
+![Guess The Number Screenshot](Screenshots/GussTheNumberGame(2).png)
 
 ### Booksy
 ![ToDo List Screenshot](Screenshots/Booksy(1).png)
