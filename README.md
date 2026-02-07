@@ -3,6 +3,11 @@
 This repository contains small front-end projects I built while learning HTML, CSS, and JavaScript.  
 Each project helped me practice different skills like DOM manipulation, styling, and user interaction.
 
+# My Front-End Projects
+
+Run all my projects online here:  
+👉 [Live Demo](https://krishnavka.github.io/basic-front-end-projects/)
+
 ## Projects
 
 1. **ToDo List App**  
